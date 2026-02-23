@@ -1,2 +1,1 @@
-print('hello')
-print('ankit')
+print('hello ankit')
